@@ -1,0 +1,7 @@
+INFO User logged in
+INFO Profile viewed
+WARNING Password is weak
+ERROR Database connection failed
+INFO Logout successful
+ERROR Login failed
+WARNING Low disk space
